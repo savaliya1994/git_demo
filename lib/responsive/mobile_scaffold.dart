@@ -50,7 +50,8 @@ class _MobileAcaffoldState extends State<MobileAcaffold> {
               icon: Icon(
                 Icons.arrow_forward_outlined,
                 size: 25,
-              ))
+              )),
+          Text('hello')
         ],
       ),
     );
